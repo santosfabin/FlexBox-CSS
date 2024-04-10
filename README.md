@@ -1,7 +1,5 @@
 # FlexBox CSS
 
-Created: June 11, 2022 12:57 PM
-
 - Flex Container
     - display: flex;
         - Torna o elemento um flex container automaticamente transformando todos os seus filhos diretos em flex itens
